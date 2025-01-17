@@ -14,4 +14,4 @@ This Project is divided into 7 parts. The Index file, CSS File,About,Projects,Sk
 
 5. Footer Section: Contains Information to be dissplayed at the foot of the Page
 
-6. # The CSS File contains the styling for the webpage
+# The CSS File contains the styling for the webpage
