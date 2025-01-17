@@ -1,6 +1,6 @@
 # A Portfolio Website
 
-This Project is divided into 7 parts. The Index file, CSS File and the Images Folder.
+This Project is divided into 7 parts. The Index file, CSS File,About,Projects,Skills and Contact Section Files, and the Images Folder.
 
 # The index file has 5 parts which are: 
 
